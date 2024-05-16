@@ -1,0 +1,75 @@
+*{
+    font-family: "poppins",sans-serif;
+}
+.top{
+    display:flex;
+    margin-left:30px;
+    margin-top:30px;
+}
+.logo b{
+    font-size: 3rem;
+}
+
+.nav{
+    display:flex;
+    gap:3rem;
+    margin-left:400px;
+    margin-top:20px;
+    cursor:pointer;
+}
+
+.nav a{
+    text-decoration: none;
+    color:orange;
+    font-size:1.1rem;
+}
+
+.signup button{
+    border:2px solid transparent;
+    margin-top:10px;
+    background: orange;
+    color:#fff;
+    padding:.5rem;
+    border-radius:.5rem;
+    width:7rem;
+    margin-left:150px;
+    font-size:1.1rem;
+    cursor:pointer;
+}
+
+
+.parent2{
+    display:flex;
+    margin-left:30px;
+}
+
+.content b{
+    color:orange;
+    font-size: 1.5rem;
+}
+
+.content span{
+    font-size:6rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.content button{
+    background: orange;
+    font-size:1.1rem;
+    color:#fff;
+    padding:.5rem;
+    border-radius:.5rem;
+    width:10rem;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.content{
+    margin-top:10rem;
+}
+
+.mainimage img{
+    margin-left:100px;
+    height:600px;
+    width:800px;
+}
